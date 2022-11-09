@@ -6,7 +6,9 @@
 }
 
 body {
-  width: 100%;
+  max-width: 1200px;
+  padding: 8px 24px;
+  margin: 0 auto;
   background-color: #050607;
 }
 
