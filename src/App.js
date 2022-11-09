@@ -1,11 +1,11 @@
 import Header from './components/Header';
-import Article from './components/Article';
+import Articles from './components/Articles';
 
 function App() {
   return (
     <>
       <Header />
-      <Article />
+      <Articles />
     </>
   );
 }
