@@ -26,6 +26,15 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque.",
       "author": "Beltrano de tal",
       "date": "Aug 6, 2020"
+    },
+    {
+      "id": 3,
+      "category": "Música Jazz",
+      "title": "Tudo sobre como começar na Música",
+      "resume": "Lorem ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ornare urna pharetra ut ac, pellentesque.",
+      "author": "Pedro de tal",
+      "date": "Nov 11, 2022"
     }
   ]
 }
